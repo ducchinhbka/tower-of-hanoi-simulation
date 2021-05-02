@@ -1,0 +1,26 @@
+﻿  ProjectI.cpp
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(159,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(245,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(245,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(247,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(266,31): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(266,18): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(267,31): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(267,18): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(268,31): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(268,18): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(269,31): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(269,18): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(327,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(332,23): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(334,23): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(336,23): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(338,23): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(342,23): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(344,23): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(352,75): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(352,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(352,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(355,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Admin\source\repos\ProjectI\ProjectI\ProjectI.cpp(514,14): warning C4018: '<': signed/unsigned mismatch
+  ProjectI.vcxproj -> C:\Users\Admin\source\repos\ProjectI\Debug\ProjectI.exe
